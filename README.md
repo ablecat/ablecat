@@ -1,11 +1,33 @@
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ablecat&show_icons=true&theme=radical&show_icons=true" />
-</a>
+<!-- 个人 GitHub 统计 -->
+<p align="center">
+  <!-- 语言统计 -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ablecat&layout=donut&hide_border=true"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=ablecat&hide_border=true"
+    />
+  </a>
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ablecat" />
-</a>
+<!-- Wakatime 统计（如果你要放的话，可以单独一行） -->
+<p align="center">
+  <!-- 综合统计 -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=ablecat&show_icons=true&theme=radical&hide_border=true"
+    />
+  </a>
+  
+</p>
+
 
 
 <!--
